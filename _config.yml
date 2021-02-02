@@ -1,11 +1,13 @@
 # Site settings
 title: Ruchen (Puck) Wen
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+email: rwen@mines.edu
+url: https://rcpuckwen.github.io
+description: "Personal homepage for Ruchen Wen (Puck Wen)."
+#"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+#keywords: "your keywords, separated by commas"
+skills: "Ph.D. Student@Mines - Research Assistant@MIRROR Lab - HRI Researcher"
+meta_author: Wen R.
+
 
 # Google webmaster tools
 google_verify:
