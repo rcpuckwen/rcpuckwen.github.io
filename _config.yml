@@ -1,11 +1,11 @@
 # Site settings
 title: Ruchen (Puck) Wen
-email: rwen@mines.edu
+email: rwen@umbc.edu
 url: https://rcpuckwen.github.io
 description: "Personal homepage for Ruchen Wen (Puck Wen)."
 #"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 #keywords: "your keywords, separated by commas"
-skills: "Ph.D. Student@Mines - Research Assistant@MIRROR Lab - HRI Researcher"
+skills: "Postdoctoral Research Associate@IRAL Lab - UMBC - HRI Researcher"
 meta_author: Wen R.
 
 
@@ -54,9 +54,9 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Colorado School of Mines
-  - line: 1600 Illinois Street
-  - line: Golden, CO 80401, USA
+  - line: University of Maryland, Baltimore County
+  - line: 1000 Hilltop Rd
+  - line: Baltimore, MD 21250, USA
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
