@@ -1,11 +1,11 @@
 # Site settings
 title: Ruchen (Puck) Wen
-email: rwen@umbc.edu
+email: rwen@colgate.edu
 url: https://rcpuckwen.github.io
 description: "Personal homepage for Ruchen Wen (Puck Wen)."
 #"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 #keywords: "your keywords, separated by commas"
-skills: "Postdoctoral Research Associate@IRAL Lab - UMBC - HRI Researcher"
+skills: "Assistant Professor - Computer Science @ Colgate - HRI Researcher"
 meta_author: Wen R.
 
 
@@ -54,9 +54,11 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: University of Maryland, Baltimore County
-  - line: 1000 Hilltop Rd
-  - line: Baltimore, MD 21250, USA
+  - line: Computer Science Department
+  - line: Colgate University
+  - line: Bernstein Hall
+  - line: 13 Oak Drive
+  - line: Hamilton, NY 13346
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
